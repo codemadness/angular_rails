@@ -1,0 +1,8 @@
+{
+  "name": "angular_rails",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "~3.0.0"
+  }
+}
+
